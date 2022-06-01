@@ -106,7 +106,7 @@ public class GUI implements ActionListener {
 		// ComboBox setup & layout
 		String[] gendArr = { "Any", "Male", "Female", "Other" };
 		String[] classArr = { "Any", "Archer", "Brigand", "Cavalier", "Civilian", "Dancer", "Extra", "Fighter",
-				"Healer", "Knigh", "Lord", "Mage", "Manakete", "Meme", "Merc", "Monk", "Monster", "Myrm",
+				"Healer", "Knight", "Lord", "Mage", "Manakete", "Meme", "Merc", "Monk", "Monster", "Myrm",
 				"Pegasus", "Pirate", "Shaman", "Soldier", "Thief", "Wyvern" };
 		gendCombo = new JComboBox(gendArr);
 		classCombo = new JComboBox(classArr);
